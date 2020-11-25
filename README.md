@@ -1,6 +1,6 @@
 # Gamecovid-19
-Projek Game Covid-19
-<br/>2d Platform
+
+2D Platform
 ---
 Kelompok 17
 ---
@@ -24,6 +24,34 @@ Rules
 + Untuk mengerjakan task, player dapat bergerak berjalan ke kanan/kiri dan melompat
 + Pada setiap level akan ada rintangan2 yang akan menghalangi player untuk menyelesaikan task,spt : virus corona
 + Game akan selesai ketika player menyelesaikan task yang diberikan
+
+Goals
+---
+Menyelesaikan task yang diberikan pada setiap episode/level untuk mencegah penyebaran virus Corona
+
+Assets
+===
+Desain
+---
+1. Karakter utama(tirta)
+2. Virus
+- Terbang
+- Nempel di tanah
+3. Heart
+4. Masker
+5. Masyarakat
+- Bocah
+- Ibu-Ibu
+- Bapak2
+- Petani
+- Pelajar
+6. Background
+7. Desinfektan (penyemprot)
+8. Handsanitizer
+9. Termometer
+10. APD
+
+
 
 
 
