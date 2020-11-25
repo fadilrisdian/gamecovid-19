@@ -29,6 +29,25 @@ Goals
 ---
 Menyelesaikan task yang diberikan pada setiap episode/level untuk mencegah penyebaran virus Corona
 
+Stage
+===
+Episode 1
+---
+Menceritakan awal Corona menyerang bumi lalu tirta yg melihat bnyak korban berjatuhan membuat dia ingin menghentikan penyebaran virus korona dengan menjadi Relawan, setelah dia menjadi relawan Covid dia diberikan perintah untuk meng-edukasi masyrakat tentang bahaya virus korona (Task:Edukasi Masyarakat)
+
+Episode 2
+---
+Setelah diteliti ternyata Covid19 adalah virus yang bisa menular melalui udara atau Airborne sehingga penularan bisa dicegah dengan menggunakan masker. Olah karna itu pemerintah menyuruh para relawan membagikan masker kepada masyarakat (Task : Mendapatkan masker dan membagikan kepada masyarakat)
+
+Episode 3
+---
+Task membersihkan lingkungan dengan desinfektan
+
+Episode 4
+---
+Membagikan sembako kepada warga.
+
+
 Assets
 ===
 Desain
@@ -50,6 +69,8 @@ Desain
 8. Handsanitizer
 9. Termometer
 10. APD
+
+
 
 
 
