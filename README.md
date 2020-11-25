@@ -16,6 +16,14 @@ Singkat cerita, pada tahun 2020 bumi diserang oleh virus yang bernama Covid-19 ,
 
 Jadi misi dia itu akan mengedukasi orang yang akan  ia ditemui misal di dalam perjalanan itu targetnya ada 5 jadi kalau udah mengedukasi 5 orang nanti 1 episode dia bakal selesai tasknya.  terus episode selanjutnya nanti misal ada yang membagikan masker  ,jadi per episode itu  akan beda-beda task dan rintangannya. 
 
-Tiap-tiap episode nanti akan ada musuh-musuh kecil seperti virus Corona yang akan menghalangi perjalanan karakter tersebut dan akan ada juga item-item yang bisa ia dapatkan untuk mempermudah pengerjaan misinya Dapat disimpulkan bahwa nantinya game ini akan ada beberapa episode didalamnya.
+Tiap-tiap episode nanti akan ada musuh-musuh kecil seperti virus Corona yang akan menghalangi perjalanan karakter tersebut dan akan ada juga item-item yang bisa ia dapatkan untuk mempermudah pengerjaan misinya. Dapat disimpulkan bahwa nantinya game ini akan ada beberapa episode didalamnya.
+
+Rules 
+---
++ Setiap awal level/episode player akan diberikan task
++ Untuk mengerjakan task, player dapat bergerak berjalan ke kanan/kiri dan melompat
++ Pada setiap level akan ada rintangan2 yang akan menghalangi player untuk menyelesaikan task,spt : virus corona
++ Game akan selesai ketika player menyelesaikan task yang diberikan
+
 
 
