@@ -1,4 +1,4 @@
-# gamecovid-19
+# Gamecovid-19
 Projek Game Covid-19
 <br/>2d Platform
 ---
