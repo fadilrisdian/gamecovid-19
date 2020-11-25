@@ -8,8 +8,7 @@ Kelompok 17
 2. M. Aldi Alripa (G64180057)   sebagai Game Artist
 3. Fadil Risdian A (G64180111)  sebagai Game Programmer  
 
-  Kanan     Kiri     Tengah     Default
--------     ------ ----------   -------
-     12     12        12            12
-    123     123       123          123
-      1     1          1             1
+| Name  | Age |
+| ----- | --- |
+| Bob   | 27  |
+| Alice | 23  |
