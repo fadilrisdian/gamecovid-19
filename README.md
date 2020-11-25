@@ -35,16 +35,16 @@ Desain
 ---
 1. Karakter utama(tirta)
 2. Virus
-- Terbang
-- Nempel di tanah
+    1. Terbang
+    2. Nempel di tanah
 3. Heart
 4. Masker
 5. Masyarakat
-- Bocah
-- Ibu-Ibu
-- Bapak2
-- Petani
-- Pelajar
+    1. Bocah
+    2. Ibu-Ibu
+    3. Bapak2
+    4. Petani
+    5. Pelajar
 6. Background
 7. Desinfektan (penyemprot)
 8. Handsanitizer
