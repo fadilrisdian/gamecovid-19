@@ -33,7 +33,7 @@ Stage
 ===
 Episode 1
 ---
-Menceritakan awal Corona menyerang bumi lalu tirta yg melihat bnyak korban berjatuhan membuat dia ingin menghentikan penyebaran virus korona dengan menjadi Relawan, setelah dia menjadi relawan Covid dia diberikan perintah untuk meng-edukasi masyrakat tentang bahaya virus korona (Task:Edukasi Masyarakat)
+Menceritakan awal Corona menyerang bumi, lalu tirta yang prihatin melihat bnyak korban berjatuhan membuat dia ingin menghentikan penyebaran virus korona dengan menjadi Relawan. Setelah dia menjadi relawan Covid dia diberikan perintah untuk meng-edukasi masyrakat tentang bahaya virus korona (Task:Edukasi Masyarakat)
 
 Episode 2
 ---
