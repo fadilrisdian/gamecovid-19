@@ -1,0 +1,1643 @@
+fileFormatVersion: 2
+guid: 6e9cceed57bcfd4498412bdaf8771ad3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3361130288912725233
+    second: center left_0
+  - first:
+      213: -7534890815778373337
+    second: center left_1
+  - first:
+      213: -4124390455885015291
+    second: center left_2
+  - first:
+      213: -2734549673354709452
+    second: center left_3
+  - first:
+      213: 7051614803152507672
+    second: center left_4
+  - first:
+      213: 7897922524235654484
+    second: center left_5
+  - first:
+      213: 2345459420863658709
+    second: center left_6
+  - first:
+      213: -1072904649667366282
+    second: center left_7
+  - first:
+      213: 5607421336672756165
+    second: center left_8
+  - first:
+      213: 8762164241023551441
+    second: center left_9
+  - first:
+      213: -1932508661056002948
+    second: center left_10
+  - first:
+      213: -1575773635861180313
+    second: center left_11
+  - first:
+      213: 7291913557000347203
+    second: center left_12
+  - first:
+      213: 4695870143055702812
+    second: center left_13
+  - first:
+      213: -5584525267543511746
+    second: center left_14
+  - first:
+      213: 5642245980964829649
+    second: center left_15
+  - first:
+      213: 8578829531646946956
+    second: center left_16
+  - first:
+      213: 9179354027698001563
+    second: center left_17
+  - first:
+      213: -988659748628428941
+    second: center left_18
+  - first:
+      213: 5102673522321129437
+    second: center left_19
+  - first:
+      213: -9212953659809738721
+    second: center left_20
+  - first:
+      213: -7645887968878393448
+    second: center left_21
+  - first:
+      213: 5021141272598804750
+    second: center left_22
+  - first:
+      213: -1791772514802514068
+    second: center left_23
+  - first:
+      213: -2908145380706035043
+    second: center left_24
+  - first:
+      213: -7834762894864673868
+    second: center left_25
+  - first:
+      213: -33916112705639383
+    second: center left_26
+  - first:
+      213: 2757402803509804356
+    second: center left_27
+  - first:
+      213: -8679082228688858364
+    second: center left_28
+  - first:
+      213: 4312586226921562460
+    second: center left_29
+  - first:
+      213: 4871876107298120721
+    second: center left_30
+  - first:
+      213: 6609506071019393332
+    second: center left_31
+  - first:
+      213: -487925514935137801
+    second: center left_32
+  - first:
+      213: -1029166315127357768
+    second: center left_33
+  - first:
+      213: -3804814068470157043
+    second: center left_34
+  - first:
+      213: -5734549083881347145
+    second: center left_35
+  - first:
+      213: -3558664982661949741
+    second: center left_36
+  - first:
+      213: 7847539935761838111
+    second: center left_37
+  - first:
+      213: 6996052359513376552
+    second: center left_38
+  - first:
+      213: -2038035697888799575
+    second: center left_39
+  - first:
+      213: -9076135520022486643
+    second: center left_40
+  - first:
+      213: 6425712777750928596
+    second: center left_41
+  - first:
+      213: 5540837448502984238
+    second: center left_42
+  - first:
+      213: -2782825328523008967
+    second: center left_43
+  - first:
+      213: 5301362150976850184
+    second: center left_44
+  - first:
+      213: -5401930274499417894
+    second: center left_45
+  - first:
+      213: -853200041423949872
+    second: center left_46
+  - first:
+      213: 5735595063944655407
+    second: center left_47
+  - first:
+      213: 1510195671351778019
+    second: center left_48
+  - first:
+      213: -5445575028753880484
+    second: center left_49
+  - first:
+      213: -3881270683795324728
+    second: center left_50
+  - first:
+      213: 9044582729677847478
+    second: center left_51
+  - first:
+      213: 6205748668363950016
+    second: center left_52
+  - first:
+      213: -2926494564316068409
+    second: center left_53
+  - first:
+      213: -2668342709308731808
+    second: center left_54
+  - first:
+      213: -3946447597062749504
+    second: center left_55
+  - first:
+      213: 2297165787223995911
+    second: center left_56
+  - first:
+      213: 3621240037522243380
+    second: center left_57
+  - first:
+      213: 4227884468948169975
+    second: center left_58
+  - first:
+      213: -6506388759424798379
+    second: center left_59
+  - first:
+      213: 6561348426646605693
+    second: center left_60
+  - first:
+      213: -3296113537038979561
+    second: center left_61
+  - first:
+      213: -2403953775695226818
+    second: center left_62
+  - first:
+      213: 8878259941089971440
+    second: center left_63
+  - first:
+      213: -2644620816015537387
+    second: center left_64
+  - first:
+      213: -5589590469642441737
+    second: center left_65
+  - first:
+      213: -3194898570576696716
+    second: center left_66
+  - first:
+      213: 7429830561065152240
+    second: center left_67
+  - first:
+      213: -4543393529198118251
+    second: center left_68
+  - first:
+      213: 5830927306367505325
+    second: center left_69
+  - first:
+      213: 501501248877313995
+    second: center left_70
+  - first:
+      213: 6250760203628873554
+    second: center left_71
+  - first:
+      213: -2821418312910736862
+    second: center left_72
+  - first:
+      213: -7673687834216426115
+    second: center left_73
+  - first:
+      213: -18890271531887699
+    second: center left_74
+  - first:
+      213: -6940206126320305045
+    second: center left_75
+  - first:
+      213: 2193468908520319712
+    second: center left_76
+  - first:
+      213: -652233618939564736
+    second: center left_77
+  - first:
+      213: 8576509618891826662
+    second: center left_78
+  - first:
+      213: -2150514091597801508
+    second: center left_79
+  - first:
+      213: -3010836396137781476
+    second: center left_80
+  - first:
+      213: -5418772924840445864
+    second: center left_81
+  - first:
+      213: -3021174114283234212
+    second: center left_82
+  - first:
+      213: -486252774955980060
+    second: center left_83
+  - first:
+      213: -6028754192935163569
+    second: center left_84
+  - first:
+      213: -4535941725527468914
+    second: center left_85
+  - first:
+      213: 5725772468480225579
+    second: center left_86
+  - first:
+      213: 480143788125632461
+    second: center left_87
+  - first:
+      213: 134048582108725890
+    second: center left_88
+  - first:
+      213: -4841373447550458789
+    second: center left_89
+  - first:
+      213: -1001018895691859955
+    second: center left_90
+  - first:
+      213: 3687110628128967937
+    second: center left_91
+  - first:
+      213: -5894352735072895358
+    second: center left_92
+  - first:
+      213: 2066753428997429222
+    second: center left_93
+  - first:
+      213: 1808356598223667219
+    second: center left_94
+  - first:
+      213: 3771112317887509945
+    second: center left_95
+  - first:
+      213: -5330646246580737188
+    second: center left_96
+  - first:
+      213: -3138849519284577377
+    second: center left_97
+  - first:
+      213: -2980171934275279777
+    second: center left_98
+  - first:
+      213: -8206829727364463817
+    second: center left_99
+  - first:
+      213: 4245958561429842802
+    second: center left_100
+  - first:
+      213: 4156382377496495392
+    second: center left_101
+  - first:
+      213: -5503600129283301643
+    second: center left_102
+  - first:
+      213: 74736530580673891
+    second: center left_103
+  - first:
+      213: 970313056414676982
+    second: center left_104
+  - first:
+      213: -7117546728514490093
+    second: center left_105
+  - first:
+      213: -1512733829572988267
+    second: center left_106
+  - first:
+      213: 1647809592297782718
+    second: center left_107
+  - first:
+      213: 5132296023764527727
+    second: center left_108
+  - first:
+      213: 348627384682391132
+    second: center left_109
+  - first:
+      213: 8873358617637029167
+    second: center left_110
+  - first:
+      213: 6152509875855551994
+    second: center left_111
+  - first:
+      213: 4844531746643610183
+    second: center left_112
+  - first:
+      213: 4084504436917361705
+    second: center left_113
+  - first:
+      213: -1448572184364312566
+    second: center left_114
+  - first:
+      213: 3456712542246686254
+    second: center left_115
+  - first:
+      213: 1757828599642424648
+    second: center left_116
+  - first:
+      213: 1523689486503050668
+    second: center left_117
+  - first:
+      213: 1030740872024278945
+    second: center left_118
+  - first:
+      213: -1429406752036518853
+    second: center left_119
+  - first:
+      213: 6319723193513515486
+    second: center left_120
+  - first:
+      213: -7604824283755116176
+    second: center left_121
+  - first:
+      213: -4357380669901021892
+    second: center left_122
+  - first:
+      213: -5497870769856628221
+    second: center left_123
+  - first:
+      213: 1176665872310808720
+    second: center left_124
+  - first:
+      213: -4400624776400126919
+    second: center left_125
+  - first:
+      213: -7203046766970065967
+    second: center left_126
+  - first:
+      213: 1703068020315500088
+    second: center left_127
+  - first:
+      213: -8977488856558840407
+    second: center left_128
+  - first:
+      213: 3445708876530657225
+    second: center left_129
+  - first:
+      213: -6073701927449324016
+    second: center left_130
+  - first:
+      213: 8268993179489879279
+    second: center left_131
+  - first:
+      213: 3320996820275783999
+    second: center left_132
+  - first:
+      213: 4405494138874595231
+    second: center left_133
+  - first:
+      213: -8076628352581885820
+    second: center left_134
+  - first:
+      213: 907105585660881701
+    second: center left_135
+  - first:
+      213: -90587900883206481
+    second: center left_136
+  - first:
+      213: -1729867629776554262
+    second: center left_137
+  - first:
+      213: 1647583240631896263
+    second: center left_138
+  - first:
+      213: -2846312143800421242
+    second: center left_139
+  - first:
+      213: -9120178314648416552
+    second: center left_140
+  - first:
+      213: -3338316367394265164
+    second: center left_141
+  - first:
+      213: -215560885678283287
+    second: center left_142
+  - first:
+      213: -8267622948311235772
+    second: center left_143
+  - first:
+      213: -4275570619712599924
+    second: center left_144
+  - first:
+      213: -4305013940134676108
+    second: center left_145
+  - first:
+      213: 1385889636225821653
+    second: center left_146
+  - first:
+      213: 5726996413470350027
+    second: center left_147
+  - first:
+      213: 199796638162766923
+    second: center left_148
+  - first:
+      213: 4878810884922177535
+    second: center left_149
+  - first:
+      213: -1060024150834406153
+    second: center left_150
+  - first:
+      213: 7977379890385725064
+    second: center left_151
+  - first:
+      213: -2811660746436644760
+    second: center left_152
+  - first:
+      213: -7579719256354949158
+    second: center left_153
+  - first:
+      213: -6385438911514033225
+    second: center left_154
+  - first:
+      213: 7705094447163071134
+    second: center left_155
+  - first:
+      213: -569966812902224521
+    second: center left_156
+  - first:
+      213: -3733255924128768439
+    second: center left_157
+  - first:
+      213: -4784576823048644088
+    second: center left_158
+  - first:
+      213: -990472653301697500
+    second: center left_159
+  - first:
+      213: -3257515552450982513
+    second: center left_160
+  - first:
+      213: -2826257300060656718
+    second: center left_161
+  - first:
+      213: -3717195203212264843
+    second: center left_162
+  - first:
+      213: 4334956024017864070
+    second: center left_163
+  - first:
+      213: -5844205212992436579
+    second: center left_164
+  - first:
+      213: 1917773271866064708
+    second: center left_165
+  - first:
+      213: 423651810081620701
+    second: center left_166
+  - first:
+      213: 7971429408484190193
+    second: center left_167
+  - first:
+      213: 5617249769246576965
+    second: center left_168
+  - first:
+      213: 5069248924386563800
+    second: center left_169
+  - first:
+      213: 6901380409143666995
+    second: center left_170
+  - first:
+      213: -3424969443520759835
+    second: center left_171
+  - first:
+      213: -4775877629674224
+    second: center left_172
+  - first:
+      213: -6538828530900374979
+    second: center left_173
+  - first:
+      213: 1516544206816287775
+    second: center left_174
+  - first:
+      213: -7625006137269614230
+    second: center left_175
+  - first:
+      213: 7008728960639013301
+    second: center left_176
+  - first:
+      213: 2111208987204282571
+    second: center left_177
+  - first:
+      213: 3695092268129896629
+    second: center left_178
+  - first:
+      213: -829760229512217457
+    second: center left_179
+  - first:
+      213: 1445463803183815260
+    second: center left_180
+  - first:
+      213: 1888245258712481538
+    second: center left_181
+  - first:
+      213: -2438888792662008846
+    second: center left_182
+  - first:
+      213: -237939519716436087
+    second: center left_183
+  - first:
+      213: 3380872000897105181
+    second: center left_184
+  - first:
+      213: -6105708207981423672
+    second: center left_185
+  - first:
+      213: 1159081194281292028
+    second: center left_186
+  - first:
+      213: 2229921016026497234
+    second: center left_187
+  - first:
+      213: -5281045618195128289
+    second: center left_188
+  - first:
+      213: -7776112719636352396
+    second: center left_189
+  - first:
+      213: -8361811135925195735
+    second: center left_190
+  - first:
+      213: -7867702203595910212
+    second: center left_191
+  - first:
+      213: 1218724352988600948
+    second: center left_192
+  - first:
+      213: 1354648593484310466
+    second: center left_193
+  - first:
+      213: 3475782151630938238
+    second: center left_194
+  - first:
+      213: 335662598082085386
+    second: center left_195
+  - first:
+      213: 3011377051250553989
+    second: center left_196
+  - first:
+      213: 4569410200036780902
+    second: center left_197
+  - first:
+      213: -3170763856966357809
+    second: center left_198
+  - first:
+      213: 5716055999304577781
+    second: center left_199
+  - first:
+      213: 7491202014181114724
+    second: center left_200
+  - first:
+      213: -6636852704131883745
+    second: center left_201
+  - first:
+      213: -4667399668226801829
+    second: center left_202
+  - first:
+      213: 800717373475986690
+    second: center left_203
+  - first:
+      213: -2540523549240229962
+    second: center left_204
+  - first:
+      213: 1706646039738529352
+    second: center left_205
+  - first:
+      213: 8591809081765893580
+    second: center left_206
+  - first:
+      213: 8338276386857260104
+    second: center left_207
+  - first:
+      213: 6854133143449085165
+    second: center left_208
+  - first:
+      213: -7433071088975128637
+    second: center left_209
+  - first:
+      213: 8000910046341047754
+    second: center left_210
+  - first:
+      213: -2715397175613430708
+    second: center left_211
+  - first:
+      213: 2192851816753004267
+    second: center left_212
+  - first:
+      213: 2459350316430645557
+    second: center left_213
+  - first:
+      213: 6057347601128610586
+    second: center left_214
+  - first:
+      213: 8184341959338960670
+    second: center left_215
+  - first:
+      213: 7112851102065376592
+    second: center left_216
+  - first:
+      213: -68952214309100618
+    second: center left_217
+  - first:
+      213: 2924575044052164369
+    second: center left_218
+  - first:
+      213: -288173225963288682
+    second: center left_219
+  - first:
+      213: 2684191951423037115
+    second: center left_220
+  - first:
+      213: 1496892372912796906
+    second: center left_221
+  - first:
+      213: -343863628415025750
+    second: center left_222
+  - first:
+      213: 2977355349802274196
+    second: center left_223
+  - first:
+      213: -5994930385403346612
+    second: center left_224
+  - first:
+      213: 8172868417971122743
+    second: center left_225
+  - first:
+      213: -6992245416385025468
+    second: center left_226
+  - first:
+      213: 1386076098404191289
+    second: center left_227
+  - first:
+      213: 6901209026781192457
+    second: center left_228
+  - first:
+      213: 6500548698720689777
+    second: center left_229
+  - first:
+      213: 1760636757118854624
+    second: center left_230
+  - first:
+      213: -2014160163148427603
+    second: center left_231
+  - first:
+      213: 384915520354443964
+    second: center left_232
+  - first:
+      213: -7409597402228742881
+    second: center left_233
+  - first:
+      213: 4575044800365838837
+    second: center left_234
+  - first:
+      213: 7728447807091203348
+    second: center left_235
+  - first:
+      213: 1459156339238782374
+    second: center left_236
+  - first:
+      213: -6108893019404064733
+    second: center left_237
+  - first:
+      213: 603131676117013368
+    second: center left_238
+  - first:
+      213: -1105761175115007453
+    second: center left_239
+  - first:
+      213: -1382558939058313143
+    second: center left_240
+  - first:
+      213: 2453742542297290704
+    second: center left_241
+  - first:
+      213: -5050506395294433415
+    second: center left_242
+  - first:
+      213: 4134321424124250005
+    second: center left_243
+  - first:
+      213: -1558159346028460626
+    second: center left_244
+  - first:
+      213: -768150114883250512
+    second: center left_245
+  - first:
+      213: 2602163013219295999
+    second: center left_246
+  - first:
+      213: -3520505364648063612
+    second: center left_247
+  - first:
+      213: -1271668402471637073
+    second: center left_248
+  - first:
+      213: 5815503681967297847
+    second: center left_249
+  - first:
+      213: 5839995319848907928
+    second: center left_250
+  - first:
+      213: 8655032644970876722
+    second: center left_251
+  - first:
+      213: 5757830511886481709
+    second: center left_252
+  - first:
+      213: 788853192790189551
+    second: center left_253
+  - first:
+      213: -6073583338989249930
+    second: center left_254
+  - first:
+      213: 707461205878055763
+    second: center left_255
+  - first:
+      213: -2101065238126441866
+    second: center left_256
+  - first:
+      213: -4694786287964279729
+    second: center left_257
+  - first:
+      213: 4419584628377916953
+    second: center left_258
+  - first:
+      213: -8943477761137290393
+    second: center left_259
+  - first:
+      213: -2182164048465007856
+    second: center left_260
+  - first:
+      213: -5496730688501529166
+    second: center left_261
+  - first:
+      213: -3282238252311540644
+    second: center left_262
+  - first:
+      213: -9213635004953508671
+    second: center left_263
+  - first:
+      213: 688105522079245572
+    second: center left_264
+  - first:
+      213: -6715004589757622228
+    second: center left_265
+  - first:
+      213: 7162022523162025588
+    second: center left_266
+  - first:
+      213: 808807597954462330
+    second: center left_267
+  - first:
+      213: 3735899437340282990
+    second: center left_268
+  - first:
+      213: -6242667150421072828
+    second: center left_269
+  - first:
+      213: -6118163241215439972
+    second: center left_270
+  - first:
+      213: 2799520820916543716
+    second: center left_271
+  - first:
+      213: 3579861145211294754
+    second: center left_272
+  - first:
+      213: -2499901203641551390
+    second: center left_273
+  - first:
+      213: -6357999832821025084
+    second: center left_274
+  - first:
+      213: -2507687480144412284
+    second: center left_275
+  - first:
+      213: 8149230905147098695
+    second: center left_276
+  - first:
+      213: -7669562123830506082
+    second: center left_277
+  - first:
+      213: -8469527840543351147
+    second: center left_278
+  - first:
+      213: 1554400967478779808
+    second: center left_279
+  - first:
+      213: 1376612198566391363
+    second: center left_280
+  - first:
+      213: -3769366062541635039
+    second: center left_281
+  - first:
+      213: -7886033651353617713
+    second: center left_282
+  - first:
+      213: 8280635886369422624
+    second: center left_283
+  - first:
+      213: 6009854725118490213
+    second: center left_284
+  - first:
+      213: 7726048028873732407
+    second: center left_285
+  - first:
+      213: 5053734870725949315
+    second: center left_286
+  - first:
+      213: -5454278824178944575
+    second: center left_287
+  - first:
+      213: 4224088900531028873
+    second: center left_288
+  - first:
+      213: -9207678207471907569
+    second: center left_289
+  - first:
+      213: 760440824610212884
+    second: center left_290
+  - first:
+      213: -8810381588030621150
+    second: center left_291
+  - first:
+      213: -2642092957149974191
+    second: center left_292
+  - first:
+      213: 142454895715723299
+    second: center left_293
+  - first:
+      213: 1059836297009232459
+    second: center left_294
+  - first:
+      213: 8995252930161293880
+    second: center left_295
+  - first:
+      213: 985399191987686556
+    second: center left_296
+  - first:
+      213: 3828587867292220439
+    second: center left_297
+  - first:
+      213: -5649781360051716657
+    second: center left_298
+  - first:
+      213: 2841418821481187395
+    second: center left_299
+  - first:
+      213: -3215074962027196577
+    second: center left_300
+  - first:
+      213: -1148632696945864670
+    second: center left_301
+  - first:
+      213: 5602471252322041778
+    second: center left_302
+  - first:
+      213: 1565112391380636568
+    second: center left_303
+  - first:
+      213: 2963867893777553232
+    second: center left_304
+  - first:
+      213: -898576553158023315
+    second: center left_305
+  - first:
+      213: -1117090432001466445
+    second: center left_306
+  - first:
+      213: -5801975539813108868
+    second: center left_307
+  - first:
+      213: -3884095408611073516
+    second: center left_308
+  - first:
+      213: 5454982734997290898
+    second: center left_309
+  - first:
+      213: 8560037240705674394
+    second: center left_310
+  - first:
+      213: -8362647982991560255
+    second: center left_311
+  - first:
+      213: 8723084388705680857
+    second: center left_312
+  - first:
+      213: 7167645488959263459
+    second: center left_313
+  - first:
+      213: 4799746933033540117
+    second: center left_314
+  - first:
+      213: 7414694964846307474
+    second: center left_315
+  - first:
+      213: 3207212215569068688
+    second: center left_316
+  - first:
+      213: -5435642580314637119
+    second: center left_317
+  - first:
+      213: -4142205248870593905
+    second: center left_318
+  - first:
+      213: 5353220072024978234
+    second: center left_319
+  - first:
+      213: -4300343770831135210
+    second: center left_320
+  - first:
+      213: 9031494798234528129
+    second: center left_321
+  - first:
+      213: 2819740154429206099
+    second: center left_322
+  - first:
+      213: -3685600816236184843
+    second: center left_323
+  - first:
+      213: -2061099025728305870
+    second: center left_324
+  - first:
+      213: 6187685697682350018
+    second: center left_325
+  - first:
+      213: -6861615053176385649
+    second: center left_326
+  - first:
+      213: 6556668630310699033
+    second: center left_327
+  - first:
+      213: -8753630713406457329
+    second: center left_328
+  - first:
+      213: 3779173941805478471
+    second: center left_329
+  - first:
+      213: 6809436038584328108
+    second: center left_330
+  - first:
+      213: 979758336271202777
+    second: center left_331
+  - first:
+      213: 6414885454326894269
+    second: center left_332
+  - first:
+      213: -4918535791652528480
+    second: center left_333
+  - first:
+      213: 1960370971419031371
+    second: center left_334
+  - first:
+      213: -2872191673729892429
+    second: center left_335
+  - first:
+      213: 3326079371052789480
+    second: center left_336
+  - first:
+      213: -4895716097665760842
+    second: center left_337
+  - first:
+      213: -7515816231195092419
+    second: center left_338
+  - first:
+      213: -8727048610936554018
+    second: center left_339
+  - first:
+      213: -3902628172100403459
+    second: center left_340
+  - first:
+      213: -3636395208644954530
+    second: center left_341
+  - first:
+      213: -6046026119440747184
+    second: center left_342
+  - first:
+      213: 6984000543717613526
+    second: center left_343
+  - first:
+      213: 3762160004267976909
+    second: center left_344
+  - first:
+      213: -5498656117842802571
+    second: center left_345
+  - first:
+      213: -6625004460351813763
+    second: center left_346
+  - first:
+      213: 937616115014843235
+    second: center left_347
+  - first:
+      213: -5523490652190578287
+    second: center left_348
+  - first:
+      213: -5783169580563762648
+    second: center left_349
+  - first:
+      213: -8379317878005552485
+    second: center left_350
+  - first:
+      213: -7828392062229474292
+    second: center left_351
+  - first:
+      213: 4895420691600463613
+    second: center left_352
+  - first:
+      213: 675116241173107206
+    second: center left_353
+  - first:
+      213: 577923532877785745
+    second: center left_354
+  - first:
+      213: 5319988748883291140
+    second: center left_355
+  - first:
+      213: -8520504412576290767
+    second: center left_356
+  - first:
+      213: 8136443426029715607
+    second: center left_357
+  - first:
+      213: -2871383667265556536
+    second: center left_358
+  - first:
+      213: -5868522309370815018
+    second: center left_359
+  - first:
+      213: 1922936054880229151
+    second: center left_360
+  - first:
+      213: 20161295673458767
+    second: center left_361
+  - first:
+      213: -4107056220741542958
+    second: center left_362
+  - first:
+      213: 3274656471143281067
+    second: center left_363
+  - first:
+      213: -8986338520194713453
+    second: center left_364
+  - first:
+      213: -4094003768596873769
+    second: center left_365
+  - first:
+      213: -384665332272172570
+    second: center left_366
+  - first:
+      213: 4658642872766753907
+    second: center left_367
+  - first:
+      213: -1448490430355213504
+    second: center left_368
+  - first:
+      213: -1003143182039252384
+    second: center left_369
+  - first:
+      213: 4196205770229522624
+    second: center left_370
+  - first:
+      213: -4993714920445144697
+    second: center left_371
+  - first:
+      213: -3602282438170364947
+    second: center left_372
+  - first:
+      213: -2900112596263327929
+    second: center left_373
+  - first:
+      213: 4387789766084735761
+    second: center left_374
+  - first:
+      213: -9016807165692175123
+    second: center left_375
+  - first:
+      213: -5689953962230918295
+    second: center left_376
+  - first:
+      213: 6480638210763178826
+    second: center left_377
+  - first:
+      213: 4827920698340526919
+    second: center left_378
+  - first:
+      213: -5362968347914269539
+    second: center left_379
+  - first:
+      213: -6189878474506185362
+    second: center left_380
+  - first:
+      213: 7439047374347346165
+    second: center left_381
+  - first:
+      213: -3016541662829749802
+    second: center left_382
+  - first:
+      213: 5880333536348660482
+    second: center left_383
+  - first:
+      213: 8376405027487688000
+    second: center left_384
+  - first:
+      213: -109810059040551760
+    second: center left_385
+  - first:
+      213: 5850938536618344362
+    second: center left_386
+  - first:
+      213: 2068614030866300481
+    second: center left_387
+  - first:
+      213: -4925877846831218115
+    second: center left_388
+  - first:
+      213: 6070740458235612745
+    second: center left_389
+  - first:
+      213: -1915808905649268181
+    second: center left_390
+  - first:
+      213: -4584178542787897396
+    second: center left_391
+  - first:
+      213: 4960665743504225895
+    second: center left_392
+  - first:
+      213: -8008432349469362465
+    second: center left_393
+  - first:
+      213: -4174020067293131749
+    second: center left_394
+  - first:
+      213: 1263076122075240434
+    second: center left_395
+  - first:
+      213: 1818260304524253795
+    second: center left_396
+  - first:
+      213: 7777319405244050346
+    second: center left_397
+  - first:
+      213: -1909514692377872261
+    second: center left_398
+  - first:
+      213: -6723023583714417475
+    second: center left_399
+  - first:
+      213: 7935696114399326079
+    second: center left_400
+  - first:
+      213: -4728785088828528480
+    second: center left_401
+  - first:
+      213: -1152068260668138533
+    second: center left_402
+  - first:
+      213: 3677198450411666667
+    second: center left_403
+  - first:
+      213: 9184094805447082177
+    second: center left_404
+  - first:
+      213: 2800658912391824365
+    second: center left_405
+  - first:
+      213: -1855779942571125603
+    second: center left_406
+  - first:
+      213: -4379113546378336431
+    second: center left_407
+  - first:
+      213: 1993369575709472116
+    second: center left_408
+  - first:
+      213: -6225205987927548187
+    second: center left_409
+  - first:
+      213: -4136685384416035484
+    second: center left_410
+  - first:
+      213: 7254428059736426203
+    second: center left_411
+  - first:
+      213: -8332086847712811033
+    second: center left_412
+  - first:
+      213: -8818943624261415279
+    second: center left_413
+  - first:
+      213: -1378080050213500070
+    second: center left_414
+  - first:
+      213: -348392895158088350
+    second: center left_415
+  - first:
+      213: 8418793261030905714
+    second: center left_416
+  - first:
+      213: 3002917739243684490
+    second: center left_417
+  - first:
+      213: 5851090664041578048
+    second: center left_418
+  - first:
+      213: 1039944530798001028
+    second: center left_419
+  - first:
+      213: -6544381136842556508
+    second: center left_420
+  - first:
+      213: -5359251421948745071
+    second: center left_421
+  - first:
+      213: -5916790237631212533
+    second: center left_422
+  - first:
+      213: -1480658020671174371
+    second: center left_423
+  - first:
+      213: 6515747441564161073
+    second: center left_424
+  - first:
+      213: -8781117579093472610
+    second: center left_425
+  - first:
+      213: -5931399046925313450
+    second: center left_426
+  - first:
+      213: -6218269463385442844
+    second: center left_427
+  - first:
+      213: 155169599034051974
+    second: center left_428
+  - first:
+      213: 6704539052151613222
+    second: center left_429
+  - first:
+      213: 8108085920872729633
+    second: center left_430
+  - first:
+      213: -7168264394737436026
+    second: center left_431
+  - first:
+      213: -5245525247011455203
+    second: center left_432
+  - first:
+      213: -2377580830619436016
+    second: center left_433
+  - first:
+      213: -6497550186732019015
+    second: center left_434
+  - first:
+      213: -6563786020607289273
+    second: center left_435
+  - first:
+      213: 4304848086056349228
+    second: center left_436
+  - first:
+      213: -3892943098401968410
+    second: center left_437
+  - first:
+      213: 3781591834181002002
+    second: center left_438
+  - first:
+      213: 1352174880970343207
+    second: center left_439
+  - first:
+      213: -379212172084567311
+    second: center left_440
+  - first:
+      213: 6847443489033645497
+    second: center left_441
+  - first:
+      213: 1028784906755583046
+    second: center left_442
+  - first:
+      213: 3782316830344082088
+    second: center left_443
+  - first:
+      213: -4998527439219656470
+    second: center left_444
+  - first:
+      213: -6142504993652795330
+    second: center left_445
+  - first:
+      213: 4431926316773994578
+    second: center left_446
+  - first:
+      213: -346200858286791273
+    second: center left_447
+  - first:
+      213: -5049120952628258999
+    second: center left_448
+  - first:
+      213: -6308259749997215683
+    second: center left_449
+  - first:
+      213: -8446139074909127889
+    second: center left_450
+  - first:
+      213: 9158948904049306718
+    second: center left_451
+  - first:
+      213: 97348000309096106
+    second: center left_452
+  - first:
+      213: -364902396400843125
+    second: center left_453
+  - first:
+      213: -386876919164099532
+    second: center left_454
+  - first:
+      213: 5923902233703086393
+    second: center left_455
+  - first:
+      213: 4298864525054229841
+    second: center left_456
+  - first:
+      213: 3222947344028260001
+    second: center left_457
+  - first:
+      213: -4533523777946191866
+    second: center left_458
+  - first:
+      213: 1662196882656280259
+    second: center left_459
+  - first:
+      213: 8919132099535826884
+    second: center left_460
+  - first:
+      213: 880334679424393622
+    second: center left_461
+  - first:
+      213: -2365200634069335114
+    second: center left_462
+  - first:
+      213: 4680970999530190083
+    second: center left_463
+  - first:
+      213: 959680941009331901
+    second: center left_464
+  - first:
+      213: -3116500559734339979
+    second: center left_465
+  - first:
+      213: -6673294556227554191
+    second: center left_466
+  - first:
+      213: -7847509848880806590
+    second: center left_467
+  - first:
+      213: 8749864507540459463
+    second: center left_468
+  - first:
+      213: -7724616746002355071
+    second: center left_469
+  - first:
+      213: 4499102424809899474
+    second: center left_470
+  - first:
+      213: -2106290939745577364
+    second: center left_471
+  - first:
+      213: 6992051501004275963
+    second: center left_472
+  - first:
+      213: -8000216345501824699
+    second: center left_473
+  - first:
+      213: -1641467164294341935
+    second: center left_474
+  - first:
+      213: 3357082315202526384
+    second: center left_475
+  - first:
+      213: 3032806417901222947
+    second: center left_476
+  - first:
+      213: -725740981043901222
+    second: center left_477
+  - first:
+      213: 6393991298313332102
+    second: center left_478
+  - first:
+      213: -3795922248534663996
+    second: center left_479
+  - first:
+      213: 1205335869259412045
+    second: center left_480
+  - first:
+      213: 6290371137372910929
+    second: center left_481
+  - first:
+      213: 3166196266112799038
+    second: center left_482
+  - first:
+      213: -4832422397377450564
+    second: center left_483
+  - first:
+      213: 1414625937867936174
+    second: center left_484
+  - first:
+      213: -512790869504759469
+    second: center left_485
+  - first:
+      213: 4592587089458852988
+    second: center left_486
+  - first:
+      213: 7369409737166198200
+    second: center left_487
+  - first:
+      213: -3740984401507907337
+    second: center left_488
+  - first:
+      213: 3580908449658845725
+    second: center left_489
+  - first:
+      213: -400460865704465432
+    second: center left_490
+  - first:
+      213: -4272611587183130931
+    second: center left_491
+  - first:
+      213: 9110263465045376348
+    second: center left_492
+  - first:
+      213: 8953068495835458594
+    second: center left_493
+  - first:
+      213: -6888627216055832888
+    second: center left_494
+  - first:
+      213: -6075987086841292776
+    second: center left_495
+  - first:
+      213: 8353876672514165827
+    second: center left_496
+  - first:
+      213: 2452073673611132022
+    second: center left_497
+  - first:
+      213: 4148672699593326654
+    second: center left_498
+  - first:
+      213: -3103919520588813305
+    second: center left_499
+  - first:
+      213: -7136099950461621237
+    second: center left_500
+  - first:
+      213: 1311012165926868875
+    second: center left_501
+  - first:
+      213: -2488665518872863774
+    second: center left_502
+  - first:
+      213: -3058513061715003203
+    second: center left_503
+  - first:
+      213: 7475447384988141187
+    second: center left_504
+  - first:
+      213: 4742714507414228389
+    second: center left_505
+  - first:
+      213: 7544737830904125303
+    second: center left_506
+  - first:
+      213: -7587013314742033467
+    second: center left_507
+  - first:
+      213: -3627410651142221057
+    second: center left_508
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 4
+  spritePivot: {x: 0, y: 0.5}
+  spritePixelsToUnits: 550
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
