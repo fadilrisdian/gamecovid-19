@@ -1,4 +1,4 @@
-# Gamecovid-19
+# Corona Fighter
 
 2D Platform
 ---
