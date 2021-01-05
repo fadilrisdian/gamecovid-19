@@ -38,7 +38,7 @@ Assets
 ===
 Desain
 ---
-1. Karakter utama(tirta)
+1. Karakter utama
 2. Virus
 3. Heart
 4. Masker
