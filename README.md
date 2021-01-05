@@ -44,3 +44,11 @@ Desain
 4. Masker
 5. Masyarakat
 6. Background
+
+Credit
+---
+https://assetstore.unity.com/packages/2d/environments/2d-forest-tileset-pack-toon-style-93499
+https://assetstore.unity.com/packages/2d/characters/2d-demo-character-sprite-sheet-137085
+https://www.freepik.com/free-vector/virus-concept-illustration_7321342.htm#page=1&query=corona&position=32
+
+
