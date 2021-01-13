@@ -47,6 +47,10 @@ Desain
 
 Screenshot
 ---
+![4](https://user-images.githubusercontent.com/61318031/104457537-c5862100-55dc-11eb-97e2-a2b4f22d4f07.png)
+![1](https://user-images.githubusercontent.com/61318031/104457551-c8811180-55dc-11eb-9962-cdb4851e3c56.png)
+![2](https://user-images.githubusercontent.com/61318031/104457560-cb7c0200-55dc-11eb-9cce-6185a271df73.png)
+![3](https://user-images.githubusercontent.com/61318031/104457581-cdde5c00-55dc-11eb-8873-40fc2bc06c98.png)
 
 
 
